@@ -6,7 +6,7 @@
       "price": "₹2,500/night",
       "rating": 4.8,
       "tag": "Superhost",
-      "imageUrl": "/images/bengaluru1.jpg"
+      "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEwOTk1NjAwMjM3NzE5MzIzNw==/original/f197930b-e4cd-4c43-876b-1cc9dbbc8be7.jpeg"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "price": "₹3,000/night",
       "rating": 4.7,
       "tag": "Guest favourite",
-      "imageUrl": "/images/bengaluru2.jpg"
+      "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIxNjY0OTgzNTA2NjE1NzEyMg%3D%3D/original/2088563f-e42d-4bde-8a4e-7060bba91efb.jpeg"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "price": "₹3,200/night",
       "rating": 4.9,
       "tag": "New",
-      "imageUrl": "/images/bengaluru3.jpg"
+      "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "price": "₹2,900/night",
       "rating": 4.6,
       "tag": "Great location",
-      "imageUrl": "/images/bengaluru4.jpg"
+      "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1118422882348724135/original/a40a9fc3-9bee-46fc-bc33-61dd649cd6a8.jpeg"
     },
     {
       "id": 5,
@@ -38,8 +38,25 @@
       "price": "₹2,200/night",
       "rating": 4.5,
       "tag": "Quiet place",
-      "imageUrl": "/images/bengaluru5.jpg"
+      "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-1396265750505961521/original/f9ec0cff-0f9b-46b2-903d-df524dab891a.png"
+    },
+    {
+      "id": 6,
+      "title": "Peaceful 3BHK Retreat",
+      "price": "₹3,200/night",
+      "rating": 4.1,
+      "tag": "Quiet place",
+      "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-1423895483280742912/original/6d0b8d96-f229-4ef4-8be5-3844b6954a1d.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Garden View Apartment",
+      "price": "₹3,200/night",
+      "rating": 4.9,
+      "tag": "New",
+      "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1131789927021539466/original/52a6957f-d4e1-4255-9b5f-f9ef5fc35785.jpeg"
     }
+
   ],
   "puducherry": [
     {
