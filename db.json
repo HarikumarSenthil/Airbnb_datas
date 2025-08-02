@@ -1,0 +1,299 @@
+{
+  "bengaluru": [
+    {
+      "id": 1,
+      "title": "Cozy Studio in Indiranagar",
+      "price": "₹2,500/night",
+      "rating": 4.8,
+      "tag": "Superhost",
+      "imageUrl": "/images/bengaluru1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Modern Flat near MG Road",
+      "price": "₹3,000/night",
+      "rating": 4.7,
+      "tag": "Guest favourite",
+      "imageUrl": "/images/bengaluru2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Garden View Apartment",
+      "price": "₹3,200/night",
+      "rating": 4.9,
+      "tag": "New",
+      "imageUrl": "/images/bengaluru3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Tech District Condo",
+      "price": "₹2,900/night",
+      "rating": 4.6,
+      "tag": "Great location",
+      "imageUrl": "/images/bengaluru4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Peaceful 1BHK Retreat",
+      "price": "₹2,200/night",
+      "rating": 4.5,
+      "tag": "Quiet place",
+      "imageUrl": "/images/bengaluru5.jpg"
+    }
+  ],
+  "puducherry": [
+    {
+      "id": 1,
+      "title": "Beachside Villa",
+      "price": "₹3,800/night",
+      "rating": 4.9,
+      "tag": "Sea View",
+      "imageUrl": "/images/puducherry1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "French Heritage Home",
+      "price": "₹3,200/night",
+      "rating": 4.8,
+      "tag": "Cultural stay",
+      "imageUrl": "/images/puducherry2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Garden Bungalow",
+      "price": "₹3,000/night",
+      "rating": 4.6,
+      "tag": "Green stay",
+      "imageUrl": "/images/puducherry3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Compact Coastal Suite",
+      "price": "₹2,400/night",
+      "rating": 4.5,
+      "tag": "Budget-friendly",
+      "imageUrl": "/images/puducherry4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Urban Stay in White Town",
+      "price": "₹2,900/night",
+      "rating": 4.7,
+      "tag": "Great reviews",
+      "imageUrl": "/images/puducherry5.jpg"
+    }
+  ],
+  "dindigul": [
+    {
+      "id": 1,
+      "title": "Hilltop Cottage",
+      "price": "₹2,800/night",
+      "rating": 4.7,
+      "tag": "Scenic view",
+      "imageUrl": "/images/dindigul1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Budget Guesthouse",
+      "price": "₹1,800/night",
+      "rating": 4.4,
+      "tag": "Affordable",
+      "imageUrl": "/images/dindigul2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Luxury Farmstay",
+      "price": "₹4,000/night",
+      "rating": 4.9,
+      "tag": "Farm retreat",
+      "imageUrl": "/images/dindigul3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Nature Hut",
+      "price": "₹2,300/night",
+      "rating": 4.5,
+      "tag": "Eco stay",
+      "imageUrl": "/images/dindigul4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Comfort Home Dindigul",
+      "price": "₹2,600/night",
+      "rating": 4.6,
+      "tag": "Great host",
+      "imageUrl": "/images/dindigul5.jpg"
+    }
+  ],
+  "hyderabad": [
+    {
+      "id": 1,
+      "title": "Hi-Tech City Apartment",
+      "price": "₹3,500/night",
+      "rating": 4.8,
+      "tag": "Business hub",
+      "imageUrl": "/images/hyderabad1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Charminar View Flat",
+      "price": "₹3,000/night",
+      "rating": 4.6,
+      "tag": "City center",
+      "imageUrl": "/images/hyderabad2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Lakefront Villa",
+      "price": "₹4,200/night",
+      "rating": 4.9,
+      "tag": "Water view",
+      "imageUrl": "/images/hyderabad3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Old City Haveli",
+      "price": "₹2,900/night",
+      "rating": 4.5,
+      "tag": "Heritage stay",
+      "imageUrl": "/images/hyderabad4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Tech Park Home",
+      "price": "₹3,100/night",
+      "rating": 4.7,
+      "tag": "Superhost",
+      "imageUrl": "/images/hyderabad5.jpg"
+    }
+  ],
+  "nilgiris": [
+    {
+      "id": 1,
+      "title": "Tea Estate Bungalow",
+      "price": "₹3,700/night",
+      "rating": 4.9,
+      "tag": "Scenic",
+      "imageUrl": "/images/nilgiris1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Mountain View Homestay",
+      "price": "₹2,600/night",
+      "rating": 4.6,
+      "tag": "Mountain view",
+      "imageUrl": "/images/nilgiris2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Wooden Cabin",
+      "price": "₹2,900/night",
+      "rating": 4.8,
+      "tag": "Rustic feel",
+      "imageUrl": "/images/nilgiris3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Forest Edge Retreat",
+      "price": "₹3,400/night",
+      "rating": 4.7,
+      "tag": "Peaceful",
+      "imageUrl": "/images/nilgiris4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Family Stay in Ooty",
+      "price": "₹2,800/night",
+      "rating": 4.5,
+      "tag": "Kid friendly",
+      "imageUrl": "/images/nilgiris5.jpg"
+    }
+  ],
+  "southgoa": [
+    {
+      "id": 1,
+      "title": "Beach Shack South Goa",
+      "price": "₹3,900/night",
+      "rating": 4.8,
+      "tag": "Beachfront",
+      "imageUrl": "/images/southgoa1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Portuguese Villa",
+      "price": "₹4,200/night",
+      "rating": 4.9,
+      "tag": "Heritage",
+      "imageUrl": "/images/southgoa2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Private Pool Stay",
+      "price": "₹5,000/night",
+      "rating": 5.0,
+      "tag": "Luxury",
+      "imageUrl": "/images/southgoa3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Calm Countryside Villa",
+      "price": "₹3,200/night",
+      "rating": 4.6,
+      "tag": "Peaceful",
+      "imageUrl": "/images/southgoa4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Rustic Beach Home",
+      "price": "₹3,500/night",
+      "rating": 4.7,
+      "tag": "Popular",
+      "imageUrl": "/images/southgoa5.jpg"
+    }
+  ],
+  "coimbatore": [
+    {
+      "id": 1,
+      "title": "City Center Apartment",
+      "price": "₹2,500/night",
+      "rating": 4.5,
+      "tag": "Convenient",
+      "imageUrl": "/images/coimbatore1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Temple View Home",
+      "price": "₹2,900/night",
+      "rating": 4.6,
+      "tag": "Cultural",
+      "imageUrl": "/images/coimbatore2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Nature Cottage",
+      "price": "₹3,100/night",
+      "rating": 4.7,
+      "tag": "Green",
+      "imageUrl": "/images/coimbatore3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Business Class Stay",
+      "price": "₹3,300/night",
+      "rating": 4.8,
+      "tag": "Corporate",
+      "imageUrl": "/images/coimbatore4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Traditional Tamil Villa",
+      "price": "₹2,800/night",
+      "rating": 4.5,
+      "tag": "Authentic",
+      "imageUrl": "/images/coimbatore5.jpg"
+    }
+  ]
+}
+
+
+
