@@ -6,6 +6,7 @@
       "price": "₹2,500/night",
       "rating": 4.8,
       "tag": "Superhost",
+      "isGuestFavourite":false,
       "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEwOTk1NjAwMjM3NzE5MzIzNw==/original/f197930b-e4cd-4c43-876b-1cc9dbbc8be7.jpeg"
     },
     {
@@ -14,6 +15,7 @@
       "price": "₹3,000/night",
       "rating": 4.7,
       "tag": "Guest favourite",
+      "isGuestFavourite":true,
       "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIxNjY0OTgzNTA2NjE1NzEyMg%3D%3D/original/2088563f-e42d-4bde-8a4e-7060bba91efb.jpeg"
     },
     {
@@ -22,6 +24,7 @@
       "price": "₹3,200/night",
       "rating": 4.9,
       "tag": "New",
+      "isGuestFavourite":false,
       "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg"
     },
     {
@@ -30,6 +33,7 @@
       "price": "₹2,900/night",
       "rating": 4.6,
       "tag": "Great location",
+      "isGuestFavourite":true,
       "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1118422882348724135/original/a40a9fc3-9bee-46fc-bc33-61dd649cd6a8.jpeg"
     },
     {
@@ -38,6 +42,7 @@
       "price": "₹2,200/night",
       "rating": 4.5,
       "tag": "Quiet place",
+      "isGuestFavourite":true,
       "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-1396265750505961521/original/f9ec0cff-0f9b-46b2-903d-df524dab891a.png"
     },
     {
@@ -46,6 +51,7 @@
       "price": "₹3,200/night",
       "rating": 4.1,
       "tag": "Quiet place",
+      "isGuestFavourite":false,
       "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-1423895483280742912/original/6d0b8d96-f229-4ef4-8be5-3844b6954a1d.jpeg"
     },
     {
@@ -54,6 +60,7 @@
       "price": "₹3,200/night",
       "rating": 4.9,
       "tag": "New",
+      "isGuestFavourite":true,
       "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1131789927021539466/original/52a6957f-d4e1-4255-9b5f-f9ef5fc35785.jpeg"
     }
 
@@ -65,7 +72,8 @@
       "price": "₹3,800/night",
       "rating": 4.9,
       "tag": "Sea View",
-      "imageUrl": "/images/puducherry1.jpg"
+      "isGuestFavourite":true,
+      "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-51228983/original/ad0bb01d-7b34-4364-9bd9-d1bed79ccaf5.jpeg"
     },
     {
       "id": 2,
@@ -73,7 +81,8 @@
       "price": "₹3,200/night",
       "rating": 4.8,
       "tag": "Cultural stay",
-      "imageUrl": "/images/puducherry2.jpg"
+      "isGuestFavourite":false,
+      "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-21662022/original/81013a90-32c3-4f9c-8065-1791689f71ba.jpeg"
     },
     {
       "id": 3,
@@ -81,7 +90,8 @@
       "price": "₹3,000/night",
       "rating": 4.6,
       "tag": "Green stay",
-      "imageUrl": "/images/puducherry3.jpg"
+      "isGuestFavourite":true,
+      "imageUrl": "https://a0.muscache.com/im/pictures/e2641487-5814-48fb-ae3b-1e1bb7ea1e24.jpg"
     },
     {
       "id": 4,
@@ -89,7 +99,8 @@
       "price": "₹2,400/night",
       "rating": 4.5,
       "tag": "Budget-friendly",
-      "imageUrl": "/images/puducherry4.jpg"
+      "isGuestFavourite":false,
+      "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-51358235/original/286341c4-bc4f-4528-ad23-00a3d60aa2c2.jpeg"
     },
     {
       "id": 5,
@@ -97,7 +108,26 @@
       "price": "₹2,900/night",
       "rating": 4.7,
       "tag": "Great reviews",
-      "imageUrl": "/images/puducherry5.jpg"
+      "isGuestFavourite":false,
+      "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTAxMzM3NDUxNzAyNTg2ODMxOA%3D%3D/original/2efe0fbf-94e4-4512-9c57-03ec47e89fa8.jpeg"
+    },
+     {
+      "id": 6,
+      "title": "Garden Bungalow",
+      "price": "₹3,000/night",
+      "rating": 4.6,
+      "tag": "Green stay",
+      "isGuestFavourite":true,
+      "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI4MzExMDg3Mjg0MjYzMzk5Nw==/original/9e052342-eb7b-474c-9a8e-9d23f06f5ba3.jpeg"
+    },
+       {
+      "id": 7,
+      "title": "French Heritage Home",
+      "price": "₹3,200/night",
+      "rating": 4.8,
+      "tag": "Cultural stay",
+      "isGuestFavourite":false,
+      "imageUrl": "https://a0.muscache.com/im/pictures/dd340dfa-7b0a-4c94-a1a1-26a7bdae3064.jpg"
     }
   ],
   "dindigul": [
@@ -107,7 +137,8 @@
       "price": "₹2,800/night",
       "rating": 4.7,
       "tag": "Scenic view",
-      "imageUrl": "/images/dindigul1.jpg"
+      "isGuestFavourite":false,
+      "imageUrl": "https://a0.muscache.com/im/pictures/fd64223d-24ea-4926-9940-94b2be511ad5.jpg"
     },
     {
       "id": 2,
@@ -115,7 +146,8 @@
       "price": "₹1,800/night",
       "rating": 4.4,
       "tag": "Affordable",
-      "imageUrl": "/images/dindigul2.jpg"
+      "isGuestFavourite":true,
+      "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-1410223235456309773/original/a2050634-a521-4e5c-ace9-af0afc43a927.jpeg"
     },
     {
       "id": 3,
@@ -123,7 +155,8 @@
       "price": "₹4,000/night",
       "rating": 4.9,
       "tag": "Farm retreat",
-      "imageUrl": "/images/dindigul3.jpg"
+      "isGuestFavourite":false,
+      "imageUrl": "https://a0.muscache.com/im/pictures/fb143895-5713-4307-b772-b52275871f91.jpg"
     },
     {
       "id": 4,
@@ -131,7 +164,8 @@
       "price": "₹2,300/night",
       "rating": 4.5,
       "tag": "Eco stay",
-      "imageUrl": "/images/dindigul4.jpg"
+      "isGuestFavourite":false,
+      "imageUrl": "https://a0.muscache.com/im/pictures/cf2a4d7a-76ff-4fa3-b3cc-e5fc2e1c247e.jpg"
     },
     {
       "id": 5,
@@ -139,7 +173,26 @@
       "price": "₹2,600/night",
       "rating": 4.6,
       "tag": "Great host",
-      "imageUrl": "/images/dindigul5.jpg"
+    "isGuestFavourite":true,
+      "imageUrl": "https://a0.muscache.com/im/pictures/30a578f8-9c5c-40b6-ae24-ba8de846cace.jpg"
+    },
+        {
+      "id": 6,
+      "title": "Budget Guesthouse",
+      "price": "₹1,800/night",
+      "rating": 4.4,
+      "tag": "Affordable",
+      "isGuestFavourite":true,
+      "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE1NzI1NDU1ODM3OTAwNTExNg%3D%3D/original/5e2c940d-34e9-4911-b88c-9a78bb22bd0e.jpeg"
+    },
+      {
+      "id": 7,
+      "title": "Nature Hut",
+      "price": "₹2,300/night",
+      "rating": 4.5,
+      "tag": "Eco stay",
+      "isGuestFavourite":false,
+      "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-1357214228383859633/original/90f4931e-4f2e-4b4e-83a6-3cc0d88db213.jpeg"
     }
   ],
   "hyderabad": [
@@ -149,7 +202,8 @@
       "price": "₹3,500/night",
       "rating": 4.8,
       "tag": "Business hub",
-      "imageUrl": "/images/hyderabad1.jpg"
+      "isGuestFavourite":true,
+      "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-887309960833793197/original/90f8c355-1091-4c2e-b1d6-99430411453a.jpeg"
     },
     {
       "id": 2,
@@ -157,7 +211,8 @@
       "price": "₹3,000/night",
       "rating": 4.6,
       "tag": "City center",
-      "imageUrl": "/images/hyderabad2.jpg"
+      "isGuestFavourite":true,
+      "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1281089058629397277/original/c3cddb00-fa39-484a-91bb-d9c836b0e33f.jpeg"
     },
     {
       "id": 3,
@@ -165,7 +220,8 @@
       "price": "₹4,200/night",
       "rating": 4.9,
       "tag": "Water view",
-      "imageUrl": "/images/hyderabad3.jpg"
+      "isGuestFavourite":false,
+      "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1443668862104636650/original/4f48d78b-b257-4050-883a-9a96be2cf131.jpeg"
     },
     {
       "id": 4,
@@ -173,7 +229,8 @@
       "price": "₹2,900/night",
       "rating": 4.5,
       "tag": "Heritage stay",
-      "imageUrl": "/images/hyderabad4.jpg"
+      "isGuestFavourite":true,
+      "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1439008411725491361/original/e204bfa2-bbc1-4cb7-a59c-3d757ad65989.jpeg"
     },
     {
       "id": 5,
@@ -181,7 +238,26 @@
       "price": "₹3,100/night",
       "rating": 4.7,
       "tag": "Superhost",
-      "imageUrl": "/images/hyderabad5.jpg"
+      "isGuestFavourite":false,
+      "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1111546429562969055/original/94e7e25d-eebc-4658-a83d-fd1d623c6bcd.jpeg"
+    },
+     {
+      "id": 6,
+      "title": "Charminar View Flat",
+      "price": "₹3,000/night",
+      "rating": 4.6,
+      "tag": "City center",
+      "isGuestFavourite":true,
+      "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-733700827408007142/original/9a882fca-e412-4b25-93a6-276dc18009e8.jpeg"
+    },
+     {
+      "id": 7,
+      "title": "Hi-Tech City Apartment",
+      "price": "₹3,500/night",
+      "rating": 4.8,
+      "tag": "Business hub",
+      "isGuestFavourite":true,
+      "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-1052024159026042604/original/4486e2da-b5ad-430b-9a8d-26ad40826dce.jpeg"
     }
   ],
   "nilgiris": [
@@ -191,7 +267,8 @@
       "price": "₹3,700/night",
       "rating": 4.9,
       "tag": "Scenic",
-      "imageUrl": "/images/nilgiris1.jpg"
+      "isGuestFavourite":true,
+      "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-693112760919663041/original/6a72c03c-94e9-4c51-9e70-1e5f40739446.jpeg"
     },
     {
       "id": 2,
@@ -199,7 +276,8 @@
       "price": "₹2,600/night",
       "rating": 4.6,
       "tag": "Mountain view",
-      "imageUrl": "/images/nilgiris2.jpg"
+      "isGuestFavourite":true,
+      "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1302140540422845969/original/63bc2fa1-ab25-4bf1-bc3a-516ae4f9823d.jpeg"
     },
     {
       "id": 3,
@@ -207,7 +285,8 @@
       "price": "₹2,900/night",
       "rating": 4.8,
       "tag": "Rustic feel",
-      "imageUrl": "/images/nilgiris3.jpg"
+      "isGuestFavourite":false,
+      "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-997828649510525029/original/d63b9afd-eb6c-4c91-b2ba-153b00fe39ea.jpeg"
     },
     {
       "id": 4,
@@ -215,7 +294,8 @@
       "price": "₹3,400/night",
       "rating": 4.7,
       "tag": "Peaceful",
-      "imageUrl": "/images/nilgiris4.jpg"
+      "isGuestFavourite":true,
+      "imageUrl": "https://a0.muscache.com/im/pictures/21e1576d-d466-422b-9592-c81dc8c3f64a.jpg"
     },
     {
       "id": 5,
@@ -223,7 +303,26 @@
       "price": "₹2,800/night",
       "rating": 4.5,
       "tag": "Kid friendly",
-      "imageUrl": "/images/nilgiris5.jpg"
+      "isGuestFavourite":false,
+      "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-1059697584385179008/original/0174690a-71fc-4529-b51e-9d2b08e0c7ea.jpeg"
+    },
+     {
+      "id": 6,
+      "title": "Mountain View Homestay",
+      "price": "₹2,600/night",
+      "rating": 4.6,
+      "tag": "Mountain view",
+      "isGuestFavourite":true,
+      "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-1263588541899804071/original/247f09fd-ebee-4373-a033-fb0b5ecc444d.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Family Stay in Ooty",
+      "price": "₹2,800/night",
+      "rating": 4.5,
+      "tag": "Kid friendly",
+      "isGuestFavourite":false,
+      "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1154695577407941787/original/a100707d-0e69-4e02-befd-8f4b1bb23fdd.jpeg"
     }
   ],
   "southgoa": [
@@ -233,7 +332,8 @@
       "price": "₹3,900/night",
       "rating": 4.8,
       "tag": "Beachfront",
-      "imageUrl": "/images/southgoa1.jpg"
+      "isGuestFavourite":false,
+      "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1335545534730692413/original/f84dd812-3ad1-495a-a620-dbb905be4423.jpeg"
     },
     {
       "id": 2,
@@ -241,7 +341,8 @@
       "price": "₹4,200/night",
       "rating": 4.9,
       "tag": "Heritage",
-      "imageUrl": "/images/southgoa2.jpg"
+      "isGuestFavourite":false,
+      "imageUrl": "https://a0.muscache.com/im/pictures/ad0f17c1-9b4a-4930-b74b-bc2aefcad633.jpg"
     },
     {
       "id": 3,
@@ -249,7 +350,8 @@
       "price": "₹5,000/night",
       "rating": 5.0,
       "tag": "Luxury",
-      "imageUrl": "/images/southgoa3.jpg"
+      "isGuestFavourite":false,
+      "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-954318952682014669/original/4e5209fd-792c-4a26-b713-898c204bda22.jpeg"
     },
     {
       "id": 4,
@@ -257,7 +359,8 @@
       "price": "₹3,200/night",
       "rating": 4.6,
       "tag": "Peaceful",
-      "imageUrl": "/images/southgoa4.jpg"
+      "isGuestFavourite":true,
+      "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQyOTUyODcxMjMwNTM0NjU2OQ==/original/e3ca98ba-1e65-413b-9758-6229c33232e3.jpeg"
     },
     {
       "id": 5,
@@ -265,7 +368,26 @@
       "price": "₹3,500/night",
       "rating": 4.7,
       "tag": "Popular",
-      "imageUrl": "/images/southgoa5.jpg"
+      "isGuestFavourite":false,
+      "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-32191897/original/89989941-7675-4d03-8e5a-690bb363a759.jpeg?im_w=960"
+    },
+     {
+      "id": 6,
+      "title": "Portuguese Villa",
+      "price": "₹4,200/night",
+      "rating": 4.9,
+      "tag": "Heritage",
+      "isGuestFavourite":false,
+      "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-1283274191439773692/original/91c68d84-5da7-48a7-88cd-203cdeec94f0.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Calm Countryside Villa",
+      "price": "₹3,200/night",
+      "rating": 4.6,
+      "tag": "Peaceful",
+      "isGuestFavourite":true,
+      "imageUrl": "https://a0.muscache.com/im/pictures/51999130-df20-45da-bdde-8173e66a868d.jpg"
     }
   ],
   "coimbatore": [
@@ -275,7 +397,8 @@
       "price": "₹2,500/night",
       "rating": 4.5,
       "tag": "Convenient",
-      "imageUrl": "/images/coimbatore1.jpg"
+      "isGuestFavourite":true,
+      "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1418087156815026719/original/5e268d8b-b4be-4316-8abc-58b5217344c8.jpeg"
     },
     {
       "id": 2,
@@ -283,7 +406,8 @@
       "price": "₹2,900/night",
       "rating": 4.6,
       "tag": "Cultural",
-      "imageUrl": "/images/coimbatore2.jpg"
+      "isGuestFavourite":false,
+      "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM4ODA2MzY5NDQ1NTg1MzI1MA==/original/71ebb591-72ac-4473-9055-6131d6377ec3.jpeg"
     },
     {
       "id": 3,
@@ -291,7 +415,8 @@
       "price": "₹3,100/night",
       "rating": 4.7,
       "tag": "Green",
-      "imageUrl": "/images/coimbatore3.jpg"
+      "isGuestFavourite":true,
+      "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1138977285391503380/original/feb2dabb-a221-42f1-adac-6542e3bb3324.jpeg"
     },
     {
       "id": 4,
@@ -299,15 +424,35 @@
       "price": "₹3,300/night",
       "rating": 4.8,
       "tag": "Corporate",
-      "imageUrl": "/images/coimbatore4.jpg"
+      "isGuestFavourite":false,
+      "imageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1330472288056952308/original/85326a4b-084b-44f6-b34c-87744bcb6810.jpeg"
     },
     {
       "id": 5,
-      "title": "Traditional Tamil Villa",
+      "title": "City Center Apartment",
       "price": "₹2,800/night",
       "rating": 4.5,
       "tag": "Authentic",
-      "imageUrl": "/images/coimbatore5.jpg"
+      "isGuestFavourite":true,
+      "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-962238769176841292/original/02697c64-92d3-4f0a-8cd3-acf6642a53d9.jpeg"
+    },
+     {
+      "id": 6,
+      "title": "City View Home",
+      "price": "₹2,900/night",
+      "rating": 4.6,
+      "tag": "Cultural",
+      "isGuestFavourite":false,
+      "imageUrl": "https://a0.muscache.com/im/pictures/9cc5a115-dbce-476f-b647-3469807fbd5d.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Business Class Stay",
+      "price": "₹3,300/night",
+      "rating": 4.8,
+      "tag": "Corporate",
+      "isGuestFavourite":false,
+      "imageUrl": "https://a0.muscache.com/im/pictures/71a0ad5c-3fff-4eab-86c4-ade6ae7b4b91.jpg"
     }
   ]
 }
